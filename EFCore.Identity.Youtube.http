@@ -1,0 +1,6 @@
+@EFCore.Identity.Youtube_HostAddress = http://localhost:5245
+
+GET {{EFCore.Identity.Youtube_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
